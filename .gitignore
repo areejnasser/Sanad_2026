@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Sanad
+data/
+test_photos/
+test_rooms/
+*.pt
+*.wav
+*.mp3
